@@ -44,7 +44,7 @@ Once all the 3 programs run, the error logs will be in /var/tmp
 
 ### Database initialization
 
-	psql [dbname] < etl/sql/tables.sql
+	sql/reset-db.sh
 
 ### Database Schema and documentation
 
