@@ -7,7 +7,7 @@ require (
 	github.com/0xProject/0x-mesh v7.1.0-beta+incompatible
 	github.com/albrow/stringset v2.1.0+incompatible // indirect
 	github.com/benbjohnson/clock v1.0.2 // indirect
-	github.com/ethereum/go-ethereum v1.9.13
+	github.com/ethereum/go-ethereum v1.10.10
 	github.com/gin-gonic/gin v1.6.3
 	github.com/jpillora/backoff v1.0.0 // indirect
 	github.com/lib/pq v1.7.0
